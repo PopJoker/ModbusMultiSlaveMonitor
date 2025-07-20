@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8482E55-DE68-485F-8EB4-7AD356ADD9A3}|ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor.csproj|C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\modbusmultislavemonitor\\slaveform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8482E55-DE68-485F-8EB4-7AD356ADD9A3}|ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor.csproj|solutionrelative:modbusmultislavemonitor\\slaveform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8482E55-DE68-485F-8EB4-7AD356ADD9A3}|ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor.csproj|C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\modbusmultislavemonitor\\slaveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8482E55-DE68-485F-8EB4-7AD356ADD9A3}|ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor.csproj|solutionrelative:modbusmultislavemonitor\\slaveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8482E55-DE68-485F-8EB4-7AD356ADD9A3}|ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor.csproj|c:\\users\\user\\source\\repos\\modbusmultislavemonitor\\modbusmultislavemonitor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8482E55-DE68-485F-8EB4-7AD356ADD9A3}|ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor.csproj|solutionrelative:modbusmultislavemonitor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8482E55-DE68-485F-8EB4-7AD356ADD9A3}|ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor.csproj|C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\modbusmultislavemonitor\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8482E55-DE68-485F-8EB4-7AD356ADD9A3}|ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor.csproj|solutionrelative:modbusmultislavemonitor\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8482E55-DE68-485F-8EB4-7AD356ADD9A3}|ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor.csproj|C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\modbusmultislavemonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8482E55-DE68-485F-8EB4-7AD356ADD9A3}|ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor.csproj|solutionrelative:modbusmultislavemonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8482E55-DE68-485F-8EB4-7AD356ADD9A3}|ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor.csproj|C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\modbusmultislavemonitor\\slaveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8482E55-DE68-485F-8EB4-7AD356ADD9A3}|ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor.csproj|solutionrelative:modbusmultislavemonitor\\slaveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8482E55-DE68-485F-8EB4-7AD356ADD9A3}|ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor.csproj|C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\modbusmultislavemonitor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8482E55-DE68-485F-8EB4-7AD356ADD9A3}|ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor.csproj|solutionrelative:modbusmultislavemonitor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SlaveForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor\\SlaveForm.Designer.cs",
+              "RelativeDocumentMoniker": "ModbusMultiSlaveMonitor\\SlaveForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor\\SlaveForm.Designer.cs",
+              "RelativeToolTip": "ModbusMultiSlaveMonitor\\SlaveForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:28:23.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SlaveForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor\\SlaveForm.cs",
+              "RelativeDocumentMoniker": "ModbusMultiSlaveMonitor\\SlaveForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor\\SlaveForm.cs",
+              "RelativeToolTip": "ModbusMultiSlaveMonitor\\SlaveForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:27:34.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SlaveForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor\\SlaveForm.cs",
+              "RelativeDocumentMoniker": "ModbusMultiSlaveMonitor\\SlaveForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor\\SlaveForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "ModbusMultiSlaveMonitor\\SlaveForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:27:30.771Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor\\Program.cs",
+              "RelativeDocumentMoniker": "ModbusMultiSlaveMonitor\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor\\Program.cs",
+              "RelativeToolTip": "ModbusMultiSlaveMonitor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:23:12.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "ModbusMultiSlaveMonitor\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor\\MainForm.Designer.cs",
+              "RelativeToolTip": "ModbusMultiSlaveMonitor\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:22:39.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor\\MainForm.cs",
+              "RelativeDocumentMoniker": "ModbusMultiSlaveMonitor\\MainForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor\\MainForm.cs",
+              "RelativeToolTip": "ModbusMultiSlaveMonitor\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:17:20.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor\\MainForm.cs",
+              "RelativeDocumentMoniker": "ModbusMultiSlaveMonitor\\MainForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ModbusMultiSlaveMonitor\\ModbusMultiSlaveMonitor\\MainForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "ModbusMultiSlaveMonitor\\MainForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:17:16.104Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ModbusMultiSlaveMonitor\ModbusMultiSlaveMonitor\obj\Debug\ModbusMultiSlaveMonitor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ModbusMultiSlaveMonitor\ModbusMultiSlaveMonitor\obj\Debug\ModbusMultiSlaveMonitor.Properties.Resources.resources
+C:\Users\User\source\repos\ModbusMultiSlaveMonitor\ModbusMultiSlaveMonitor\obj\Debug\ModbusMultiSlaveMonitor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ModbusMultiSlaveMonitor\ModbusMultiSlaveMonitor\obj\Debug\ModbusMultiSlaveMonitor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ModbusMultiSlaveMonitor\ModbusMultiSlaveMonitor\bin\Debug\ModbusMultiSlaveMonitor.exe.config
+C:\Users\User\source\repos\ModbusMultiSlaveMonitor\ModbusMultiSlaveMonitor\bin\Debug\ModbusMultiSlaveMonitor.exe
+C:\Users\User\source\repos\ModbusMultiSlaveMonitor\ModbusMultiSlaveMonitor\bin\Debug\ModbusMultiSlaveMonitor.pdb
+C:\Users\User\source\repos\ModbusMultiSlaveMonitor\ModbusMultiSlaveMonitor\obj\Debug\ModbusMultiSlaveMonitor.exe
+C:\Users\User\source\repos\ModbusMultiSlaveMonitor\ModbusMultiSlaveMonitor\obj\Debug\ModbusMultiSlaveMonitor.pdb
+C:\Users\User\source\repos\ModbusMultiSlaveMonitor\ModbusMultiSlaveMonitor\obj\Debug\ModbusMultiSlaveMonitor.exe.config
+C:\Users\User\source\repos\ModbusMultiSlaveMonitor\ModbusMultiSlaveMonitor\obj\Debug\ModbusMultiWindowDemo.MainForm.resources
+C:\Users\User\source\repos\ModbusMultiSlaveMonitor\ModbusMultiSlaveMonitor\obj\Debug\ModbusMultiWindowDemo.SlaveForm.resources
